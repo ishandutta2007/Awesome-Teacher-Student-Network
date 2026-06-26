@@ -79,3 +79,14 @@ Deploying a compressed teacher-student system inside commercial pipelines requir
 | [**Autonomous Mobile Perception Compressors (TinyML)**](details/autonomous_mobile_perception.md) | 2021 | [MobileViT](https://arxiv.org/abs/2110.02199) | **Application:** Compresses multi-gigabyte autonomous driving or drone vision transformers down to mobile-friendly micro-networks. The compact student handles real-time object classification and frame-rate localization maps inside low-power microcontrollers without draining hardware batteries. |
 | [**Real-Time Natural Language Translation Pipelines**](details/real_time_translation.md) | 2016 | [Sequence-Level Knowledge Distillation](https://arxiv.org/abs/1606.07947) | **Application:** Commercial text serving systems (like customer support virtual assistants). High-latency ensemble transformer stacks distill their semantic language profiles down into tiny, specialized student models, drastically compressing **Time-to-First-Token (TTFT)** metrics for high-volume concurrent streams. |
 
+## 📈 Star History
+
+<div align="center">
+<a href="https://www.star-history.com/?repos=ishandutta2007%2FAwesome-Teacher-Student-Network&type=date&legend=bottom-right">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Teacher-Student-Network&type=date&theme=dark&legend=bottom-right" />
+<source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Teacher-Student-Network&type=date&legend=bottom-right" />
+<img alt="Star History Chart" src="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Teacher-Student-Network&type=date&legend=bottom-right" />
+</picture>
+</a>
+</div>
