@@ -10,7 +10,10 @@ The Teacher-Student network architecture—fundamentally known as **Knowledge Di
 The technical implementation of cross-model knowledge transfer has transitioned from terminal label compression to deep geometric layer matching, moving toward modern recursive multi-agent self-distillation ecosystems.
 
 ```mermaid
-[Response-Based Distillation (2015)] ---> [Feature-Based Alignment (FitNets, 2016)] ---> [Online & Self-Distillation (2020s+)](Softmax Probability Matching)            (Intermediate Layer Mapping)                (Recursive Self-Evolution Loops)
+flowchart LR
+    A["Response-Based Distillation (2015)<br/>(Softmax Probability Matching)"]
+    --> B["Feature-Based Alignment (FitNets, 2016)<br/>(Intermediate Layer Mapping)"]
+    --> C["Online & Self-Distillation (2020s+)<br/>(Recursive Self-Evolution Loops)"]
 ```
 
 
