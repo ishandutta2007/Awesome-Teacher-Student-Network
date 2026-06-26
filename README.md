@@ -1,11 +1,22 @@
-# Awesome-Teacher-Student-Network
-## Teacher-Student Networks: Evolution, Variants, Types, & Applications
+# 🌟 Awesome-Teacher-Student-Network
+
+<p align="center">
+  <img src="assets/banner.svg" alt="Awesome Teacher-Student Network Banner" width="100%">
+</p>
+
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a><a href="https://github.com/ishandutta2007/Awesome-Teacher-Student-Network/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Teacher-Student-Network?style=flat-square" alt="Stars" /></a><a href="https://github.com/ishandutta2007/Awesome-Teacher-Student-Network/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Teacher-Student-Network?style=flat-square" alt="Forks" /></a><a href="https://github.com/ishandutta2007/Awesome-Teacher-Student-Network/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Teacher-Student-Network?style=flat-square" alt="License" /></a><a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
+
+## 🚀 Teacher-Student Networks: Evolution, Variants, Types, & Applications
+
+Welcome to the ultimate curated list of awesome Teacher-Student Network architectures, Knowledge Distillation (KD) methodologies, model compression techniques, and deep learning optimization resources. This repository covers Response-Based, Feature-Based, Relation-Based KD, Offline/Online/Self-Distillation paradigms, capacity gap mitigations, and cutting-edge edge AI deployment setups (e.g. DeepSeek-R1, MobileViT, sequence distillation).
 
 The Teacher-Student network architecture—fundamentally known as **Knowledge Distillation (KD)**—is a foundational model compression and optimization framework in Artificial Intelligence. Introduced in its modern deep learning form by Geoffrey Hinton et al. in 2015, the paradigm transfers dark knowledge, structural logic, and predictive dark-probability distributions from a massive, high-capacity model (the Teacher) into a compact, resource-efficient model (the Student). By training the student network to mimic the specialized output behaviors or intermediate layer states of the teacher, it preserves the high cognitive accuracy of a frontier foundation system while shrinking parameter sizes, memory footprints, and inference processing latencies.
 
 ---
 
-## 1. The Chronological Evolution
+## 📅 1. The Chronological Evolution
 
 The technical implementation of cross-model knowledge transfer has transitioned from terminal label compression to deep geometric layer matching, moving toward modern recursive multi-agent self-distillation ecosystems.
 
@@ -25,7 +36,7 @@ flowchart LR
 
 ---
 
-## 2. Core Functional & Knowledge-Type Variants
+## 🧬 2. Core Functional & Knowledge-Type Variants
 
 Teacher-student optimization workflows are strictly categorized based on what specific mathematical parameters are being targeted for architectural extraction across the network graphs.
 
@@ -37,7 +48,7 @@ Teacher-student optimization workflows are strictly categorized based on what sp
 
 ---
 
-## 3. Structural Execution & Training Paradigms
+## ⚙️ 3. Structural Execution & Training Paradigms
 
 Depending on the availability of training resources and pre-existing networks, teacher-student communication follows three distinct structural scheduling pipelines.
 
@@ -49,7 +60,7 @@ Depending on the availability of training resources and pre-existing networks, t
 
 ---
 
-## 4. Production Engineering Challenges & Mitigations
+## ⚠️ 4. Production Engineering Challenges & Mitigations
 
 Deploying a compressed teacher-student system inside commercial pipelines requires balancing capacity limits and domain gaps to protect accuracy levels.
 
@@ -60,7 +71,7 @@ Deploying a compressed teacher-student system inside commercial pipelines requir
 
 ---
 
-## 5. Frontier Real-World AI Applications
+## 🌍 5. Frontier Real-World AI Applications
 
 | Application | Year | First Used Paper | Application Details |
 | :--- | :--- | :--- | :--- |
